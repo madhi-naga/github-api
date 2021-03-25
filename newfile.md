@@ -1,6 +1,3 @@
-## Using github's API
-Updated with postman again....
+# testing with my new gitnotes app!
 
-It works
-
-Lets try it again
+testing again
